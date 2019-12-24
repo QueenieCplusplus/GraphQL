@@ -9,19 +9,15 @@
     $ npm install graphql-playground-middleware-express
 ==> + graphql-playground-middleware-express@1.7.12
 
+https://github.com/QueenieCplusplus/Backend_Script/blob/master/-Nodejs/Upload-master/index.js
+
 # Alternatives
 
 * Postgres
 
-* SQL Server
-
 * Firebase
 
-* MySQL
-
 * Redis
-
-* Elastics
 
 # MongoDB in local, 安裝套件
 
